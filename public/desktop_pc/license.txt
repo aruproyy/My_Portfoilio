@@ -1,0 +1,11 @@
+Model Information:
+* title:	Astronaut floating in space
+* source:	https://sketchfab.com/3d-models/astronaut-floating-in-space-8d486996594a4714be1adf0d20745aa4
+* author:	nitwit.friends (https://sketchfab.com/nitwit.friends)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Astronaut floating in space" (https://sketchfab.com/3d-models/astronaut-floating-in-space-8d486996594a4714be1adf0d20745aa4) by nitwit.friends (https://sketchfab.com/nitwit.friends) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
